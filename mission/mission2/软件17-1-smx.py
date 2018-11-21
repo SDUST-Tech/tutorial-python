@@ -1,3 +1,8 @@
+'''
+__author__ = "sunmaoxiang"
+task_1     = "ok"
+'''
+
 import re
 import os
 import sys
